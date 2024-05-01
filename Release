@@ -1,0 +1,8 @@
+Origin: Sulfur dioxide
+Label: Sulfur dioxide
+Suite: stable
+Version: 1.0
+Codename: Rootless
+Architectures: iphoneos-arm64
+Components: main
+Description: Sulfur dioxide

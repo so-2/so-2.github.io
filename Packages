@@ -1,0 +1,231 @@
+Package: com.rocket.cracked
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: rocket
+Filename: ./debs/com.rocket.cracked_1.0_iphoneos-arm64.deb
+Size: 3308
+MD5sum: 5e783f77930e43afddf1ba5338d2aafd
+SHA1: 9dc9d7107962d0bddc1789271ff3fe55fe8b4b45
+SHA256: 76f9f1a34a1ad1cf812f8692db3ba59d28534eb4c0174f8aa781d96280caddec
+Section: Tweaks
+Description: crack rocket
+Author: rocket
+Name: Crack Rocket
+
+Package: emt.paisseon.apollocrack
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 248
+Depends: firmware (>= 12.2)
+Filename: ./debs/emt.paisseon.apollocrack_1.3.3_iphoneos-arm.deb
+Size: 35234
+MD5sum: 82736dd5fd464de22eca3f8479426a59
+SHA1: 4a03830bf624225bafe35770ce5fcbe13178d7ba
+SHA256: 201283dfc657d0c983c85e2cd858ffc276ed34c4e19a719aced92f7aba6000ee
+Section: Cracks
+Description: Apollo Ultra for free
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/apollo-ultra-crack.json&name=ApolloCrack&dev=Lilliana
+Name: Apollo Ultra Crack
+Sileodepiction: https://paisseon.github.io/depictions/apollo-ultra-crack.json
+
+Package: emt.paisseon.erika
+Version: 1.13.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 368
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: ./debs/emt.paisseon.erika_1.13.3_iphoneos-arm64.deb
+Size: 92162
+MD5sum: bab331e4f39bc5a4f9e753d01b87a877
+SHA1: 3b544573d3c9d037f4b97685ab7f1293fd1a9d45
+SHA256: 66270edb31c79f000d5059266f0d5ca53dac2ef989f878b40707a5f3318e21c0
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.icleaner
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/emt.paisseon.icleaner_4.0_iphoneos-arm64.deb
+Size: 22320
+MD5sum: 7ad890897173ade413323f7a5cc5987a
+SHA1: d1c2c7a7d11e7318cc9fee01a77f99201745be53
+SHA256: 64eb3fe87f103d6a4610f63fc8127f52658fb45ee8dc3223c8938cd6a1bb0ac6
+Section: Tweaks
+Description: iCleaner Pro for free, nanodesu
+Author: Paisseon
+Name: iCleaner Pro Crack
+
+Package: emt.paisseon.multitabcrack
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: ./debs/emt.paisseon.multitabcrack_0.0.1_iphoneos-arm64.deb
+Size: 22046
+MD5sum: 59c03986f6ef955630e7cad9611bafeb
+SHA1: b57359c75be901a27b587246f44fd66191507763
+SHA256: a80195cab7f8789b70d0913c5bd79fe5ca21df8d09dbfdfade4965636178c4a6
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/MultiTabCrack.json&name=MultiTabCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/MultiTabCrack.png
+Name: MultiTab Crack
+Sileodepiction: https://paisseon.github.io/depictions/MultiTabCrack.json
+
+Package: emt.paisseon.revenuecrack
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: ./debs/emt.paisseon.revenuecrack_1.2.0_iphoneos-arm64.deb
+Size: 24254
+MD5sum: 72f1bdda8d2b824520fc81e911f57820
+SHA1: 2fe4a8869b5cc817dc5a0085f5d296a321107710
+SHA256: b64fc376a04a89146d83c18e62095e46d6436f36c761b5ab637d4307a0ce3754
+Section: Tweaks (Piracy)
+Description: Crack for some RevenueCat-based apps
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/RevenueCrack.json&name=RevenueCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/RevenueCrack.png
+Name: RevenueCat Crack
+Sileodepiction: https://paisseon.github.io/depictions/RevenueCrack.json
+
+Package: emt.paisseon.satella
+Version: 1.8.1
+Architecture: iphoneos-arm64
+Maintainer: Lilliana
+Installed-Size: 488
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: ./debs/emt.paisseon.satella_1.8.1_iphoneos-arm64.deb
+Size: 95982
+MD5sum: e951c9c54b7b646d3c58aa3d2d3946a5
+SHA1: b1a2a6e9c10ac9cfb62c31a6bfccff90e96111f7
+SHA256: cadbe4d4bf8e4e9317d450792e0cf1548c288b9016dee3241e72ee4bdeedd20d
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: lilliana.filzacrack
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: Lilliana
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: ./debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
+Size: 21226
+MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
+SHA1: aec744001cd888b9c3099415a67366dce26612f2
+SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/FilzaCrack.json&name=FilzaCrack&dev=Lilliana
+Icon: https://paisseon.github.io/icons/FilzaCrack.png
+Name: FilzaCrack
+Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
+
+Package: lilliana.ishtar
+Version: 0.0.7
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 456
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: ./debs/lilliana.ishtar_0.0.7_iphoneos-arm64.deb
+Size: 73950
+MD5sum: 81f5a935ba912b93e3c271cb2109d9bd
+SHA1: 86b979e9d2537e790ea7b047690c33e530d4eaae
+SHA256: 7f5172b18b1dda641bad40c8fc9baa52d1f66cba848d193e55541dee42512056
+Section: Tweaks (Piracy)
+Description: iOSGods VIP cheats for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Ishtar.json&name=Ishtar&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Ishtar.png
+Name: Ishtar
+Sileodepiction: https://paisseon.github.io/depictions/Ishtar.json
+
+Package: lilliana.strongboxcrack
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: ./debs/lilliana.strongboxcrack_0.0.3_iphoneos-arm64.deb
+Size: 21800
+MD5sum: 5930d459928b20b0fe1378c1f9a1e0b1
+SHA1: 83a12962c7ebfc21136f62bf36f2d6d6a874f4d6
+SHA256: f0243aa270e3bd5c7ca04ded85c1c5c5c793df4274c182a75eaf837c2434c665
+Section: Tweaks
+Description: Strongbox pro for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/StrongboxCrack.json&name=StrongboxCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/StrongboxCrack.png
+Name: Strongbox Crack
+Sileodepiction: https://paisseon.github.io/depictions/StrongboxCrack.json
+
+Package: lilliana.ulyssescrack
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: ./debs/lilliana.ulyssescrack_0.0.1_iphoneos-arm64.deb
+Size: 22562
+MD5sum: 3ca187b72b1d528a773a5cdb5d067ccd
+SHA1: 2351b08681a63ca9c012b29adb5bb350430a2f57
+SHA256: ecf9ec0461a8b52250ae70adde69497d9299d4b7bda79ef4495466a8d4b034a0
+Section: Cracks
+Description: Ulysses annual subscription for free (works on TF!)
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/UlyssesCrack.json&name=UlyssesCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/UlyssesCrack.png
+Name: Ulysses Crack
+Sileodepiction: https://paisseon.github.io/depictions/UlyssesCrack.json
+
+Package: netskao.filzacrack
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 200
+Depends: mobilesubstrate, com.tigisoftware.filza64bit | com.tigisoftware.filza
+Filename: ./debs/netskao.filzacrack_1.1-4_iphoneos-arm64.deb
+Size: 11956
+MD5sum: e82d5fb498a253c4dc3cafbc034090fd
+SHA1: 93bdc9efdcccaa6ade1d688629ef863d1e06a095
+SHA256: fdb51097e82a5d9f0190af4f60507ffff7f540ec3c55b60cd14740ee60c38339
+Section: Netskao-Cracks
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza破解全功能插件，主程序官方源安装，支持所有机型，如提示需要激活请激活即可，国行激活失败请自行修复联网，点击“更多信息”跳转官方源https://tigisoftware.com/cydia/
+Author: Netskao
+Name: Filza Crack
+
+Package: watusilicense
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: -
+Filename: ./debs/watusilicense_1.0_iphoneos-arm64.deb
+Size: 7160
+MD5sum: f633027690740559d7b16a5e17a6d022
+SHA1: f0c9fbcc281467d38564553415ae32640f712524
+SHA256: 310f728511c4ad91a6575f82a6a501d1ee6f54bcd168e92b99e3a6e5d6969f76
+Section: Tweaks
+Description: Active Watusi License
+Author: -
+Name: Crack Watusi
+
